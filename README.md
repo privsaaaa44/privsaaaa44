@@ -1,24 +1,39 @@
-Hi 👋 My name is Muhammad Sadiq
-==============================
-
-Frontend Developer
-------------------
-
-I build **production-grade, maintainable, and performant web UIs** using reusable components, modern state management, routing, forms, and server-side rendering.
-
-I optimize frontend performance with **lazy loading, code splitting, memoization, and caching**, and implement secure authentication integrated with **REST & GraphQL APIs**.
-
-I enforce code quality through **unit, integration, and E2E testing**, static analysis, and clear documentation. I collaborate in **CI/CD pipelines** and containerized environments while monitoring frontend health using logs and metrics.
-
-- 🌍  Based in **Karachi, Pakistan**
-- ✉️  Contact: **[sadiqsiraj44@gmail.com](mailto:sadiqsiraj44@gmail.com)**
-- 🧠  Currently learning **WooCommerce**
-- 👥  Open to **freelancing, internships, full-time, part-time, and interesting projects**
-- 💬  Ask me about frontend development (talented, but still improving emotional control 😅)
+# Muhammad Sadiq 👋
+**Frontend Developer**  
+Karachi, PK | +92 315 2453522 | [sadiqsiraj44@gmail.com](mailto:sadiqsiraj44@gmail.com)  
+[Portfolio Website](#)
 
 ---
 
-### Skills
+I build **production-grade, maintainable, and performant web UIs** with reusable components, state management, routing, forms, and server-side rendering. I optimize frontend performance with **lazy loading, code splitting, memoization, and caching**, and implement secure authentication integrated with **REST & GraphQL APIs**. I enforce code quality through **unit, integration, and E2E tests, static analysis, and clear documentation**, and collaborate in **CI/CD pipelines** while monitoring frontend health.
+
+---
+
+## Experience
+
+**Digitalaz Solution | Data Entry Operator Intern**  
+*On-site | Aug 2025 – Sep 2025*  
+- Performed product listings and updates on the company’s e-commerce platform.  
+- Ensured product details, prices, and descriptions were accurate and up to date.  
+- Assisted in organizing digital inventory and maintaining data consistency.
+
+**IJK Media | Web Developer Intern**  
+*On-site | Oct 2025 – Dec 2025*  
+- Designed and implemented front-end website features using **HTML, CSS, JavaScript, Bootstrap, React, WordPress, Shopify, PHP, Python**.  
+- Created responsive layouts and improved user interface experience.  
+- Collaborated with the team to deliver visually appealing and functional web pages.
+
+---
+
+## Education
+
+- **Diploma Degree** | Aptech, 3-year Web Development Course *(1 year Completed)* | 2025 – Present  
+- **ICS (Intermediate in Computer Science)** | Govt Degree Boys College Johar Karachi | 2025 – Present  
+- **Matriculation in Computer Science** | HPGS School Karachi | 2025  
+
+---
+
+## Technical Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" /></a>
@@ -37,20 +52,31 @@ I enforce code quality through **unit, integration, and E2E testing**, static an
 
 ---
 
+## Soft Skills
+
+- Problem Solving  
+- Team Collaboration  
+- Time Management  
+- Adaptability  
+
+---
+
+## Personal Info
+
+- Father’s Name: Muhammad Siraj  
+- Date of Birth: 23 August 2009  
+- Nationality: Pakistani  
+- Marital Status: Single  
+- Languages: English, Urdu  
+
+---
+
 ### Socials
 
 <p align="left">
-<a href="https://www.github.com/privsaaaa44" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
-</a>
-
-<a href="https://www.linkedin.com/in/muhammadsadiq123" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
-</a>
-
-<a href="https://www.facebook.com/privsaaaa44" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" />
-</a>
+<a href="https://www.github.com/privsaaaa44" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
+<a href="https://www.linkedin.com/in/muhammadsadiq123" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
+<a href="https://www.facebook.com/privsaaaa44" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" /></a>
 </p>
 
 ---
@@ -68,11 +94,6 @@ I enforce code quality through **unit, integration, and E2E testing**, static an
 ### Support Me
 
 <p>
-<a href="https://www.buymeacoffee.com/privsaaaa44">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
-</a>
-
-<a href="https://www.ko-fi.com/privsaaaa44">
-<img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" />
-</a>
+<a href="https://www.buymeacoffee.com/privsaaaa44"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+<a href="https://www.ko-fi.com/privsaaaa44"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" /></a>
 </p>
