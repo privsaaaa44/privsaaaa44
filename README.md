@@ -1,7 +1,7 @@
 # Muhammad Sadiq 👋
 **Frontend Developer**  
 Karachi, PK | +92 315 2453522 | [sadiqsiraj44@gmail.com](mailto:sadiqsiraj44@gmail.com)  
-[Portfolio Website](#)
+[Portfolio Website](https://muhammadsadiq.vercel.app/)
 
 ---
 
